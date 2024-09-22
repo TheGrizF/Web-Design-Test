@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Team
+title: The Team
 ---
 
 # Meet the Team
