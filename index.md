@@ -1,16 +1,21 @@
-
-# Welcome to Our Project
+---
+layout: default
+title: Home
+---
+# Testing and messing around with Git Pages
 
 This is a simple website built using Markdown on GitHub Pages.
 
 ## Team Members
 
-- Alice
+- Grant!
 
-- Bob
+- Colette
 
-- Carol
+- The Other Kids
+
+- Who Needs Alphabetical Order!
 
 ## Our Goals
 .....
-You can learn more about our project [here](about.md).
+To Figure Out Git Hub!
