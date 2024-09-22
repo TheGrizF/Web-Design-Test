@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+
+
 # Welcome to Our Project
 
 This is a simple website built using Markdown on GitHub Pages.
