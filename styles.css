@@ -2,7 +2,7 @@ body {
 
     font-family: Arial, sans-serif;
 
-    background-color: #f4f444;
+    background-color: #ff0000;
 
     margin: 0;
 
@@ -13,7 +13,7 @@ body {
 
 h1 {
 
-    color: #333;
+    color: #f00;
 
 }
 
@@ -23,7 +23,7 @@ p {
 
     font-size: 18px;
 
-    color: #666;
+    color: #00f;
 
 }
 
