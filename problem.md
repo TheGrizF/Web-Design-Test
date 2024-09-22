@@ -1,3 +1,3 @@
-# Whats the problem?
+# What's the problem?
 
-People have terrible taste
+Some people have terrible taste
