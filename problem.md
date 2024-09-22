@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: The Problem
 ---
 
 # What's the problem?
