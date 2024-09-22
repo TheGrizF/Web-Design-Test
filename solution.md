@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Solution
+title: solution
 ---
 
 # What's the solution?
